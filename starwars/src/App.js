@@ -34,6 +34,8 @@ const App = () => {
 		);
 	});
 
+	console.log(people);
+
 	return (
 		<div className="App">
 			<StarWarsLogo className="Header" />
